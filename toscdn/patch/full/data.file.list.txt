@@ -14,6 +14,7 @@ deadslice
 decal
 effect
 etc
+expviewer
 font
 ies
 ies_ability
@@ -23,7 +24,6 @@ item_hi
 item_texture
 item_texture_low
 language
-refresh
 script_client
 scriptapi
 shader
